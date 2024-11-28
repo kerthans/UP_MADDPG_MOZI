@@ -1,0 +1,8 @@
+numpy
+torch
+matplotlib
+pygame
+gym
+colorama
+tqdm
+seaborn
